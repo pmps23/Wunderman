@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CloudCommerceGroup": {
+      "commandName": "Project",
+      "commandLineArgs": "csv2xml  input.csv"
+    }
+  }
+}
